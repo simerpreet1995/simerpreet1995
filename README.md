@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Simer Preet</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey 👋, I'm Simer Preet</h1>
+<h3 align="center">A passionate frontend developer from India, Delhi</h3>
 
 <img style="width: 500px;" src="https://thumbs.gfycat.com/DevotedAchingAnhinga-max-1mb.gif" />
 

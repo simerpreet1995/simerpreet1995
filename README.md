@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from India, Delhi 🤩</h3>
 <h3 align="center"> Lets  build online presence  🎯 ✔ </h3>
 
-<img style="width: 500px;" src="https://thumbs.gfycat.com/DevotedAchingAnhinga-max-1mb.gif" />
+<img  style="width: 850px; " src="https://thumbs.gfycat.com/DevotedAchingAnhinga-max-1mb.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simerpreet1995&label=Profile%20views&color=0e75b6&style=flat" alt="simerpreet1995" /> </p>
 

@@ -1,7 +1,8 @@
 
 
 <h1 align="center">Hey 👋, I'm Simer Preet</h1>
-<h3 align="center">A passionate frontend developer from India, Delhi</h3>
+<h3 align="center">A passionate frontend developer from India, Delhi 🤩</h3>
+<h3 align="center"> Lets  build online presence  🎯 ✔ </h3>
 
 <img style="width: 500px;" src="https://thumbs.gfycat.com/DevotedAchingAnhinga-max-1mb.gif" />
 
@@ -14,7 +15,8 @@
 - 💬 Ask me about **Html , CSS , Bootstrap , GItHub**
 
 - 📫 How to reach me **simerpreet2844@gmail.com**
-
+- ✨ Lets build **Something Different**
+- 🧲 **Attract as much as possible**
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>

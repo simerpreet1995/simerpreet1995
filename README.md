@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **simerpreet2844@gmail.com**
 - ✨ Lets build **Something Different**
-- 🧲 **Attract as much as possible**
+- 🧲 **Attractive websites as much as possible**
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>

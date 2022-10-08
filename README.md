@@ -12,12 +12,13 @@
 
 - 🌱 I’m currently learning **Web Devlopment**
 
-- 💬 Ask me about **Html , CSS , Bootstrap , GItHub**
+- 💬 Ask me about **Html , CSS , Bootstrap , GItHub, Javascript, React Js, Material UI, Styled Components**
 
 - 📫 How to reach me **simerpreet2844@gmail.com**
 - ✨ Lets build **Something Different**
 - 🧲 **Attractive websites as much as possible**
 - ⚡ Fun fact **I am Funny**
+- 🎯 **Focused**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
